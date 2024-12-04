@@ -2,7 +2,7 @@
 Quantum Representation of Multi Wavelength Image Implementation on IBM Quantum Computers
 
 Abstract: In this study, we propose quantum representation of multiwavelength images (QRMW) that gives preparation
-and retrieving procedures of quantum images. The proposed QRMW model represents multichannel and 2n 2m images.
+and retrieving procedures of quantum images. The proposed QRMW model represents multichannel and 2nx2m images.
 Moreover, we present image comparison and some image operations based on the QRMW model. Comparing our model
 with the models in the literature, the QRMW model has less time complexity. It also uses fewer qubits than existing
 models in the literature.
